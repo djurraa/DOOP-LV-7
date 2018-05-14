@@ -8,6 +8,7 @@ namespace Palindrom
 {
     public class Palindrome
     {
+
         public String IsPalindrome(string input)
         {
             int min = 0;
