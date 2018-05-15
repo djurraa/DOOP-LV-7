@@ -9,8 +9,8 @@ namespace Palindrom_test
         [TestMethod]
         public void IsPalindrome_DammitImMad_Returns_Palindrome()
         {
+            Palindrom pd = new Palindrom();
             // Arrange
-            Palindrome Pd = new Palindrome();
             string input = "Dammit I'm mad"
             // Act
 

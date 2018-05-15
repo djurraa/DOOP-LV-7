@@ -1,0 +1,6 @@
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\bin\Debug\Palindrom.dll
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\obj\Debug\Palindrom.dll
+C:\FAKS\2. GODINA\INFORMATIKA\2. SEMESTAR\Dizajn u OOP\LV\DOOP-LV-7\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
